@@ -8,10 +8,8 @@ This project provides a comprehensive analysis of key air pollutants (SO2, NO2, 
 
 ## 🧪 Technologies Used
 
-- Python
-- Pandas, NumPy
-- Matplotlib, Seaborn, Plotly
-- Jupyter Notebook
+- Power Bi
+- Excel
 
 ## 📈 Key Insights
 
@@ -30,5 +28,5 @@ This project provides a comprehensive analysis of key air pollutants (SO2, NO2, 
 ![IMG-20250401-WA0019](https://github.com/user-attachments/assets/9bcbb2b5-bd99-484c-bca2-d07c853f2955)
 
 
-## 📁 Project Structure
+
 
