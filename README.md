@@ -1,7 +1,5 @@
 # 🌏 Environmental Analysis of Air Pollutants to Indicate Air Quality in India (2018–2022)
 
-![Header](images/header_summary.png)
-
 ## 📊 Overview
 
 This project provides a comprehensive analysis of key air pollutants (SO2, NO2, PM2.5, PM10) across India from 2018 to 2022. The goal is to determine pollution trends, analyze AQI changes, and highlight excess pollutant levels based on WHO guidelines.
