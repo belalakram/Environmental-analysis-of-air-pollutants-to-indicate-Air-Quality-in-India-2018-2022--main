@@ -24,11 +24,11 @@ This project provides a comprehensive analysis of key air pollutants (SO2, NO2, 
 
 ### 🔹 Dashboard Overview
 
-![Dashboard Overview](images/air_quality_dashboard_1.png)
+![IMG-20250401-WA0020](https://github.com/user-attachments/assets/f1605cc2-75af-473d-a103-5622da59f71e)
 
 ### 🔹 Pollutants Correlation and Trends
+![IMG-20250401-WA0019](https://github.com/user-attachments/assets/9bcbb2b5-bd99-484c-bca2-d07c853f2955)
 
-![Pollutant Trends](images/air_quality_dashboard_2.png)
 
 ## 📁 Project Structure
 
