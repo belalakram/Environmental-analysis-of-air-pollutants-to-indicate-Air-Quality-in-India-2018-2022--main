@@ -28,6 +28,22 @@ This project provides a comprehensive analysis of key air pollutants (SO2, NO2, 
 
 ![IMG-20250401-WA0020](https://github.com/user-attachments/assets/f1605cc2-75af-473d-a103-5622da59f71e)
 
+### 🔹 Pollutants Correlation and Trends
+![IMG-20250401-WA0018](https://github.com/user-attachments/assets/d5a1c950-f599-4fff-8c47-ac754a471fc7)
+
+### 🔹 Pollutants Correlation and Trends
+![IMG-20250401-WA0017](https://github.com/user-attachments/assets/e8f2d03e-0efa-4ccc-92e7-fb5ce327a648)
+
+### 🔹 Pollutants Correlation and Trends
+![IMG-20250401-WA0016](https://github.com/user-attachments/assets/42b43586-e6c4-459f-be4c-ecd66d38b65d)
+### 🔹 Pollutants Correlation and Trends
+![IMG-20250401-WA0015](https://github.com/user-attachments/assets/b6c5f494-fe8c-458b-a6fc-98230e47d79d)
+### 🔹 Pollutants Correlation and Trends
+![IMG-20250401-WA0014](https://github.com/user-attachments/assets/268cb75d-14ee-4ff9-af53-60672c8b9038)
+
+
+
+
 
 
 
